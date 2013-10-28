@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.593,C:\Users\Grupa\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\Grupa\Documents\RAD Studio\Projects\Forma.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.221,C:\Users\Grupa\Documents\RAD Studio\Projects\Lidmasinas.h=C:\C++\KlavsCeicans\Lidmasina\Lidmasinas.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,=C:\Users\Grupa\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,C:\Users\Grupa\Documents\RAD Studio\Projects\Unit1.h=C:\Users\Grupa\Documents\RAD Studio\Projects\Forma.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.607,C:\Users\Grupa\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\Grupa\Documents\RAD Studio\Projects\LidmasinaDB.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.369,C:\Users\Grupa\Documents\RAD Studio\Projects\LidmasinaDBPCH1.h=C:\C++\KlavsCeicans\Lidmasina\LidmasinaDBPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.221,C:\Users\Grupa\Documents\RAD Studio\Projects\Lidmasinas.cpp=C:\C++\KlavsCeicans\Lidmasina\Lidmasinas.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,C:\Users\Grupa\Documents\RAD Studio\Projects\Unit2.h=C:\Users\Grupa\Documents\RAD Studio\Projects\DataModule.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,C:\Users\Grupa\Documents\RAD Studio\Projects\DataModule.dfm=C:\C++\KlavsCeicans\Lidmasina\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=C:\Users\Grupa\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,C:\Users\Grupa\Documents\RAD Studio\Projects\Project1PCH1.h=C:\Users\Grupa\Documents\RAD Studio\Projects\LidmasinaDBPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,C:\Users\Grupa\Documents\RAD Studio\Projects\Unit2.cpp=C:\Users\Grupa\Documents\RAD Studio\Projects\DataModule.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.221,C:\Users\Grupa\Documents\RAD Studio\Projects\Lidmasinas.dfm=C:\C++\KlavsCeicans\Lidmasina\Lidmasinas.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\Grupa\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,C:\Users\Grupa\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Grupa\Documents\RAD Studio\Projects\Forma.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,C:\Users\Grupa\Documents\RAD Studio\Projects\LidmasinaDB.cbproj=C:\C++\KlavsCeicans\Lidmasina\LidmasinaDB.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\Grupa\Documents\RAD Studio\Projects\Forma.dfm=C:\Users\Grupa\Documents\RAD Studio\Projects\Lidmasinas.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\Grupa\Documents\RAD Studio\Projects\Forma.h=C:\Users\Grupa\Documents\RAD Studio\Projects\Lidmasinas.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,C:\Users\Grupa\Documents\RAD Studio\Projects\DataModule.cpp=C:\C++\KlavsCeicans\Lidmasina\DataModule.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,C:\Users\Grupa\Documents\RAD Studio\Projects\DataModule.h=C:\C++\KlavsCeicans\Lidmasina\DataModule.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\Grupa\Documents\RAD Studio\Projects\Forma.cpp=C:\Users\Grupa\Documents\RAD Studio\Projects\Lidmasinas.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,C:\Users\Grupa\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\Grupa\Documents\RAD Studio\Projects\DataModule.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
