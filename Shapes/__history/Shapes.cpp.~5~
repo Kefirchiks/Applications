@@ -1,0 +1,70 @@
+﻿#pragma hdrstop
+#pragma argsused
+
+#include <tchar.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <vcl.h>
+#include <conio.h>
+#include <iostream.h>
+
+class Shape {
+	protected:
+		int dimension;
+	public:
+// Iekšējā metode stipendijas aprēķināšanai
+	inline void setDimension()
+		{
+			cout << "Ievadiet dimension: ";
+			cin >> dimension;
+		}
+	int getDimension()
+	{
+		system("CLS");
+		cout << "Dimension = " << dimension << endl;
+		return EXIT_SUCCESS;
+	}
+	virtual void getArea()
+	{
+	int laukums;
+		laukums = (dimension * dimension);
+		cout << "Laukums = " << laukums << endl;
+	}
+
+};
+class CRec: protected Shape
+	{
+	public:
+	friend class Shape;
+	void printMala()
+	{
+	cout << "Mala ir = " << dimension;
+	}
+
+};
+/*
+// Pārslogota funkcija
+	void setDimension(Shape *B)
+		{
+	Shape jauns; // Statisks objekts
+	Shape *vecs;
+	Shape *baigais;
+	//delete baigais; // Dzēš dinamisko objektu + izsauc destruktor
+		 cout << "Mala ir vienada: " << *baigais << endl;
+		}  */
+int main()
+{
+Shape myShape; // Izveido objektu
+CRec myRec;
+
+Shape *dimension; // Norāde uz 'protected' dimension
+	myShape.setDimension();
+	myShape.getDimension();
+   //	setDimension();
+	myShape.getArea();
+
+	myRec.printMala();
+
+	getch();
+return EXIT_SUCCESS;
+}

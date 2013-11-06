@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2013.10.08 17:50:49.217,=C:\Users\NB1\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2013.10.08 17:50:49.297,=C:\Users\NB1\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2013.10.08 20:40:56.573,C:\Users\NB1\Documents\RAD Studio\Projects\Shapes.cpp=C:\Users\NB1\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2013.10.08 20:41:02.938,C:\Users\NB1\Documents\RAD Studio\Projects\ShapesProject.h=C:\Users\NB1\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2013.10.08 20:41:15.695,C:\Users\NB1\Documents\RAD Studio\Projects\Shapes.cbproj=C:\Users\NB1\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2013.10.08 20:41:32.081,C:\Users\NB1\Desktop\Dropbox\C++\Shapes\Shapes.cpp=C:\Users\NB1\Documents\RAD Studio\Projects\Shapes.cpp</Transaction>
+    <Transaction>2013.10.08 20:41:40.358,C:\Users\NB1\Desktop\Dropbox\C++\Shapes\ShapesProject.h=C:\Users\NB1\Documents\RAD Studio\Projects\ShapesProject.h</Transaction>
+    <Transaction>2013.10.08 20:41:42.141,C:\Users\NB1\Desktop\Dropbox\C++\Shapes\Shapes.cbproj=C:\Users\NB1\Documents\RAD Studio\Projects\Shapes.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
