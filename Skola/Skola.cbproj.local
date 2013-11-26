@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.739,E:\MAIN\RAD Studio\Projects\SkolaProject.h=G:\Programmesana\Skola\SkolaProject.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,E:\MAIN\RAD Studio\Projects\Project1.cbproj=E:\MAIN\RAD Studio\Projects\Skola.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,E:\MAIN\RAD Studio\Projects\Skola.cpp=G:\Programmesana\Skola\Skola.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,E:\MAIN\RAD Studio\Projects\Skola.cbproj=G:\Programmesana\Skola\Skola.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,E:\MAIN\RAD Studio\Projects\File1.cpp=E:\MAIN\RAD Studio\Projects\Skola.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.752,=E:\MAIN\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.014,E:\MAIN\RAD Studio\Projects\Project1PCH1.h=E:\MAIN\RAD Studio\Projects\SkolaProject.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,=E:\MAIN\RAD Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
