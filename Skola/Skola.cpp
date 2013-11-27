@@ -15,29 +15,29 @@ class Skola
 				Adrese[50];
 	public:
 		virtual void pabeigtSkolu(){  //
-			printf("Klase SKOLA \n\n");
+			printf("Tika exec klase SKOLA \n");
 		}
-		void setNumurs( int p_numurs ) //Direktora "setters"
+		void setNumurs( int p_numurs ) //Numura "SET"
 		{
 			this->numurs = p_numurs;
 		};
-		void setNosaukums( char p_nosaukums[] ) //Direktora "setters"
+		void setNosaukums( char p_nosaukums[] ) //Nosaukuma "SET"
 		{
 			strncpy( this->nosaukums, p_nosaukums, 50 );
 		};
-		void setAdrese( char p_Adrese[] ) //Direktora "setters"
+		void setAdrese( char p_Adrese[] ) //Adreses "SET"
 		{
 			strncpy( this->Adrese, p_Adrese, 50 );
 		};
-		int getNumurs() //Direktora "getters"
+		int getNumurs() //Numura "GET"
 		{
 			return this->numurs;
 		};
-		char* getNosaukums() //Direktora "getters"
+		char* getNosaukums() //Nosaukuma "GET"
 		{
 			return this->nosaukums;
 		};
-		char* getAdrese() //Direktora "getters"
+		char* getAdrese() //Adreses "GET"
 		{
 			return this->Adrese;
 		};
@@ -71,14 +71,13 @@ class Augstskola: public Skola
 		};
 
         void pabeigtSkolu(){
-			printf("Klase AUGSTSKOLA\n\n");
+			printf("Tika exec klase AUGSTSKOLA\n\n");
 		}
 };
 
 int main()
 {
 	//Skola *ManaSkola, *ManaSkola2;
-
     //Pirmais 2 klases
     Skola *ManaSkola;
     Augstskola *ManaSkola2;
@@ -91,7 +90,9 @@ int main()
 	ManaSkola->pabeigtSkolu();
 	ManaSkola2->pabeigtSkolu();
 
-	//Otrais variants 1 klase
+/*
+/////////////////////////////////////
+////   Otrais variants 1 klase   ////
     Skola *ManaSkola3, *ManaSkola4;
 	ManaSkola3 = new Skola;
 	ManaSkola4 = new Augstskola;
@@ -102,6 +103,7 @@ int main()
     delete ManaSkola2;
     delete ManaSkola3;
 	delete ManaSkola4;
+*/
 	getch();
 	return EXIT_SUCCESS;
 };
